@@ -1,1 +1,57 @@
-<mxfile host="www.draw.io" modified="2019-12-15T09:20:38.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="4wd9kchYNdkK8iY87Jlq" version="12.4.2" type="github" pages="1"><diagram id="X1JWmDco7V7aQGfYqFeC" name="第 1 页">1Vjbkps4EP0aPU4KcTM8GptktypTNRVvZTdPKRlk0EYgR8hjO1+/LRDGGOzxZMazicsP6tatOeeo1YCcWbH7IMk6vxcp5ci20h1y5si2sWvbSP+tdN94Jr5xZJKlZlDnWLAf1Dgt492wlFa9gUoIrti670xEWdJE9XxESrHtD1sJ3t91TTI6cCwSwofev1mq8sYb2JPO/wdlWd7ujP2w6SlIO9g8SZWTVGyPXE6MnJkUQjWtYjejXIPX4tLMe3+m9xCYpKW6ZkLxl/+5El+r7/nnxbxIHz9F8u4Oe80yj4RvzBObaNW+hUCKTZlSvYqFnGibM0UXa5Lo3i2QDr5cFRwsDE3CWVZCO4GoqATHinE+E1zIejFntVrZSQL+SknxjR71pP7S93zoMRFRqeju7LPiA4IgPSoKquQehpgJocHciM62jL3tKPR848uP6DsMJEY22WHpDlloGHCfAbQ/wPkBZDzAutqygpOS9kFNcsbTj2QvNjrOSpHkW2tFklZwaB5aaPCJ657sDHEwTSpzwGztyIVkP0SpCDcjOsdCb3GWURiyMCHjVyDLdvpsOdgdsOWEI2z5tyJrMnIoItjMWjJ1JWUDtK8C6rx0zqM3lDa23xIsjAdo3dNC1DHWAJwCBgCoJ5KGholBEp6ajoKlqZ7eSJss66U0qmvBSlU/kRchb65xhuU2SlQN9PhFyE8uIo/9vmyHRIyJ1r4VD8GYaN1fU7TYHVGt86aqtQdwFV8faRKxbMq5SP6EK2+HNFk+12pdSmhluoViD01jFIW6EYZoGqB4gsIpClzWTPpt9R6Mk9beot51nDm34iwcU3jwayrcnvzvedkdwhW7CAALplq6EUYBeEIUWCgCVQcoilGI6zFzFL2vVe0ey7sW/AzBTagbcz3x99V6eFHrI8l8lL2bZXM8rEEgNcHFWmcnoqBqfhr7fo1divo0HBfkxtVyxOlKXWJorPbvvx30a0NjG7rc16ntsXVS3OMr75Kb5SV7WNwPyKEpvFYaU0iVi0yUhMed9wTIbsxHIdYGzX+pUnsDpz4IfbZPsQY85f4fs15tfNHGO68157vjzvneWE3sOuDLDMHziY1M6AVksClKIOtm9CeSqaScKPbYD+T1+Rup92MfhV6d6iY6Owbu26c6TpaUR/AiltXS6L9Ew+85x8t8HjFbokPeejJN2pevuTvrneP1jqPTWFczZ5Z+0AgcDRGrVUXVgNpDBC/IrMNCeazye8lHkFNaTvLrayRB9yQJjhXU7kgSdJ+fBMHsvlI1LHTf+pz4Pw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-15T09:33:53.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="p8rbuzpepEJnty6HDZep" version="12.4.2" type="github" pages="1">
+  <diagram id="X1JWmDco7V7aQGfYqFeC" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--15" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="110" y="240" width="560" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--6" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="354" width="390" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--7" value="+0 bit" style="swimlane;html=1;startSize=20;" parent="mT6Vso_sqhVSDmdvRBr--6" vertex="1">
+          <mxGeometry x="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--11" value="Memory Size" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="mT6Vso_sqhVSDmdvRBr--7" vertex="1">
+          <mxGeometry x="16" y="30" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--8" value="+4 bit" style="swimlane;html=1;startSize=20;" parent="mT6Vso_sqhVSDmdvRBr--6" vertex="1">
+          <mxGeometry x="140" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--12" value="m_vecBigAllocIndex &lt;br&gt;容器的index" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="mT6Vso_sqhVSDmdvRBr--8" vertex="1">
+          <mxGeometry y="25" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--9" value="+8 bit" style="swimlane;html=1;startSize=20;" parent="mT6Vso_sqhVSDmdvRBr--6" vertex="1">
+          <mxGeometry x="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--14" value="上层逻辑使用的地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="mT6Vso_sqhVSDmdvRBr--9" vertex="1">
+          <mxGeometry y="30" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--17" value="BigMemAllocator" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="120" y="250" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mT6Vso_sqhVSDmdvRBr--18" target="mT6Vso_sqhVSDmdvRBr--6" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--27" value="数组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontSize=14;" parent="mT6Vso_sqhVSDmdvRBr--26" vertex="1" connectable="0">
+          <mxGeometry x="-0.35" y="3" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mT6Vso_sqhVSDmdvRBr--18" value="m_vecBigAllocIndex" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;" parent="1" vertex="1">
+          <mxGeometry x="160" y="280" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="0ZVS2XXFW-gt5it1XFPR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="460" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="0ZVS2XXFW-gt5it1XFPR-5" value="&lt;span style=&quot;text-align: center;&quot;&gt;BindMemPool&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="0ZVS2XXFW-gt5it1XFPR-6" value="对外接口，封装BigMemAllocator及SmallMemAllocator及提供统计alloc/free/realloc的接口" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="400" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
